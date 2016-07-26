@@ -1,0 +1,6 @@
+# Print output to console
+print("Hello World!")
+
+# Get input then print it out
+name = input("Enter your name...")
+print("Hello, " + name + "\nHow are you?")
